@@ -3,4 +3,4 @@ RUN dnf install nginx -y
 LABEL project="expense" \ 
       environment="dev" \
       component="frontend" \
-      authors="sivakumar"
+      authors="sindhuri"
